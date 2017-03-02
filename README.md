@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example application using play 2.5 and reactive mongo
 
 # Configure MongoDB
@@ -71,3 +72,6 @@ curl -H "Content-Type: application/json" -X POST -d '[{"name": "pepe"}]' http://
 curl http://localhost:9000/persons?name=jason
 ```
 
+=======
+# mypractice
+>>>>>>> 9b882046b3aa1d66b3bbdd0c3707e81813d16f85
